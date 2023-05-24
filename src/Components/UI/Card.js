@@ -1,4 +1,4 @@
-import classses from'./Card.module.css'
+import classses from './Card.module.css'
 
 const Card = (props) => {
 
